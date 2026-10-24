@@ -1,0 +1,13 @@
+{
+  "architecture": "FA3-CLIP",
+  "model_name": "openai/clip-vit-base-patch32",
+  "num_labels": 2,
+  "id2label": {
+    "0": "fake",
+    "1": "real"
+  },
+  "label2id": {
+    "fake": 0,
+    "real": 1
+  }
+}

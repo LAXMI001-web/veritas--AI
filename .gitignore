@@ -1,0 +1,11 @@
+data/
+eval_data/
+*.pt
+*.h5
+checkpoints/**/fa3_model.pt
+__pycache__/
+.venv/
+venv/
+*.sqlite3
+models/asr/
+*.onnx
